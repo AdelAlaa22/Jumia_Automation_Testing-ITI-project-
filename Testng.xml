@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite parallel = "false" name="JumiaTestSuit" >
+    <test name="Test" >
+        <classes>
+            <class name="Tests.Registration_Test" />
+            <class name="Tests.AddNewAddress_Test" />
+            <class name="Tests.Search_Test" />
+            <class name="Tests.AddToCart_Test" />
+            <class name="Tests.ShopByCategory_Test" />
+            <class name="Tests.DeleteFromCart_Test" />
+            <class name="Tests.CheckOut_Test" />
+        </classes>
+    </test>
+</suite>

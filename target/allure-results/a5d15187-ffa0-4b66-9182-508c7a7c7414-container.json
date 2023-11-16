@@ -1,0 +1,1 @@
+{"uuid":"a5d15187-ffa0-4b66-9182-508c7a7c7414","name":"JumiaTestSuit","children":["e81f4bf1-5fe3-44da-913a-9302eb44ee74"],"befores":[{"name":"StartDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1699294696211,"stop":1699294700228}],"afters":[],"start":1699294696184,"stop":1699294747966}
